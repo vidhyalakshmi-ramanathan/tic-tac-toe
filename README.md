@@ -1,4 +1,5 @@
 Tic Tac Toe
+
 I made a Tic Tac Toe game using HTML, CSS, and JavaScript, and honestly, it was a fun little project. I started it just to practice coding, but it ended up teaching me a lot.
 
 At first, it was tricky getting the game logic right—like tracking moves and figuring out when someone wins—but once it all clicked, it felt pretty awesome. 
