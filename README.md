@@ -1,4 +1,4 @@
-Tic Tac Toe
+<h3>Tic Tac Toe</h3>
 
 I made a Tic Tac Toe game using HTML, CSS, and JavaScript, and honestly, it was a fun little project. I started it just to practice coding, but it ended up teaching me a lot.
 
